@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CodigoGenerico.iml" filepath="$PROJECT_DIR$/CodigoGenerico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnnotationsEExceptions.iml" filepath="$PROJECT_DIR$/AnnotationsEExceptions.iml" />
     </modules>
   </component>
 </project>
